@@ -14,3 +14,8 @@ npx create-next-app@latest
 ### modifier
 - hover:bg-green-600
 - hover:scale-125
+
+### gradient 4분 30초
+ bg-gradient-to-tr via-yellow-400 to-purple-400 from-cyan-500
+
+ invalid:bg-red-500
