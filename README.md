@@ -82,3 +82,15 @@ odd:bg-gray-400 p-2.5 rounded-lg even:bg-gray-600 border border-b-orange-400 las
     color:blue 
   }
 }
+
+### form plugin 추가
+- npm i @tailwindcss/forms
+~~~
+  plugins: [
+    require("@tailwindcss/forms")
+  ],
+~~~
+
+
+### daisyUI
+- https://daisyui.com/
