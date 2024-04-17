@@ -94,3 +94,7 @@ odd:bg-gray-400 p-2.5 rounded-lg even:bg-gray-600 border border-b-orange-400 las
 
 ### daisyUI
 - https://daisyui.com/
+
+
+### heroicons
+npm i @heroicon/react
